@@ -1,0 +1,36 @@
+{
+  "SalesData": [
+    {
+      "ProductID": 1,
+      "ProductName": "Laptop",
+      "Category": "Electronics",
+      "Price": 1200,
+      "UnitsSold": 50,
+      "DateSold": "2023-09-01"
+    },
+    {
+      "ProductID": 2,
+      "ProductName": "Smartphone",
+      "Category": "Electronics",
+      "Price": 800,
+      "UnitsSold": 150,
+      "DateSold": "2023-09-02"
+    },
+    {
+      "ProductID": 3,
+      "ProductName": "Headphones",
+      "Category": "Accessories",
+      "Price": 150,
+      "UnitsSold": 200,
+      "DateSold": "2023-09-03"
+    },
+    {
+      "ProductID": 4,
+      "ProductName": "Monitor",
+      "Category": "Electronics",
+      "Price": 300,
+      "UnitsSold": 100,
+      "DateSold": "2023-09-04"
+    }
+  ]
+}
